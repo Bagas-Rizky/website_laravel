@@ -33,3 +33,4 @@ Route::controller(ContactController::class)->group(function (){
 });
 
 // ADMIN ROUTES
+// test
